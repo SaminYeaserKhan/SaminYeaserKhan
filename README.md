@@ -16,4 +16,4 @@ shipping the Flutter and React apps that use them.
 
 ### Contact
 
-samin.yeaser.khan.bd@gmail.com
+samin.yeaser.khan.bd@gmail.com · [LinkedIn](https://www.linkedin.com/in/saminyeaserkhan/)
